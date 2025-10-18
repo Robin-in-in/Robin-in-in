@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/22981489/README.md)
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate frontend developer from Waterloo, Ontario- currently located in Ottawa</h3>
+<h3 align="center">A passionate developer from Waterloo, Ontario- currently located in Ottawa</h3>
 
-- 🔭 I’m currently working on [Trails](https://github.com/Robin-in-in/Trails)
+- 🔭 I’m currently working on [Trails](https://github.com/Robin-in-in/Trails) an insight journaling application
 
 - 📫 How to reach me **rrobi099@uottawa.ca**
 
